@@ -1,5 +1,5 @@
-// database/db.js
-require('dotenv').config(); // ADD THIS LINE
+
+require('dotenv').config(); 
 const { Pool } = require('pg');
 
 // Database connection configuration
